@@ -25,7 +25,7 @@ fun MenuScreen(modifier: Modifier = Modifier) {
     Box(
         modifier = modifier
             .fillMaxSize()
-            .background(Color(0xFF2C4EC7))
+            .background(Color(0xFFD90404))
             .padding(32.dp)
     ) {
         Text(
